@@ -1,20 +1,7 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    responsive.css                                     :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: aarouss <marvin@42.fr>                     +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2015/06/16 10:29:41 by aarouss           #+#    #+#              #
-#    Updated: 2015/06/16 11:06:57 by aarouss          ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
 body
 {
-	background-image: url(https://s-media-cache-ak0.pinimg.com/736x/74/92/4c/74924ceedeed2a14f33f7e392899e09f.jpg)
-	background-repeat;
-	no-repeat;
+	background-image: url(https://s-media-cache-ak0.pinimg.com/736x/74/92/4c/74924ceedeed2a14f33f7e392899e09f.jpg);
+	background-repeat: no-repeat;
 	background-size: cover;
 }
 table
