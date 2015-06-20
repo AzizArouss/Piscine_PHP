@@ -1,0 +1,134 @@
+body
+{
+	background-color: #000000;
+}
+
+.header
+{
+	width: 2520px;
+	height: 25px;
+	background-color: #FFFFFF;
+	border-radius: 10px 10px 10px 10px;
+	margin: 15px auto;
+	box-shadow: 5px 5px 5px 5px #212121;
+	clear: both;
+}
+
+.top-box
+{
+	width: 2520px;
+	height: 138px;
+	background-color: #FFFFFF;
+	border-radius: 10px 10px 10px 10px;
+	margin: 15px auto;
+	box-shadow: 5px 5px 5px 5px #212121;
+	clear: both;
+}
+
+.coutainer-box
+{
+	width: 1366px;
+	height: 582px;
+	margin: 20px auto;
+	clear: both;
+}
+
+.left-box
+{
+	margin-left: -577px;
+	float: left;
+	width: 500px;
+	height: 1000px;
+	background-color: #FFFFFF;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 5px 5px 5px 5px #212121;
+	clear: both;
+}
+
+.middle-box
+{
+	width: 1914px;
+	height: 1000px;
+	background-color: #FFFFFF;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 5px 5px 5px 5px #212121;
+	margin: 0px 30px
+}
+
+.sf-brand-logo
+{
+	float: left;
+	width: 435px;
+	height: 122px;
+	margin: 10px;
+}
+
+.shop-icon
+{
+	float: right;
+	width: 120px;
+	height: 120px;
+	margin: 10px;
+}
+
+#Personnage1
+{
+	float: left;
+	width: 350px;
+	height: 350px;
+}
+
+#Personnage2
+{
+	float: left;
+	width: 350px;
+	height: 350px;
+}
+
+#Personnage3
+{
+	float: left;
+	width: 350px;
+	height: 350px;
+}
+
+#Personnage4
+{
+	float: left;
+	width: 350px;
+	height: 350px;
+}
+
+#Personnage5
+{
+	float: left;
+	width: 350px;
+	height: 350px;
+}
+
+#Personnage6
+{
+	float: left;
+	width: 350px;
+	height: 350px;
+}
+
+figure
+{
+	display: inline-block;
+	margin: 20px;
+}
+
+figure figcaption
+{
+	text-align: center;
+	margin-left: 170px;
+}
+
+.super
+{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 150px;
+	margin-top: 60px;
+}
