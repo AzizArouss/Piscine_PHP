@@ -17,7 +17,7 @@ body
 .top-box
 {
 	width: 2520px;
-	height: 138px;
+	height: 130px;
 	background-color: #FFFFFF;
 	border-radius: 10px 10px 10px 10px;
 	margin: 15px auto;
@@ -38,7 +38,7 @@ body
 	margin-left: -577px;
 	float: left;
 	width: 500px;
-	height: 1000px;
+	height: 980px;
 	background-color: #FFFFFF;
 	border-radius: 10px 10px 10px 10px;
 	box-shadow: 5px 5px 5px 5px #212121;
@@ -48,11 +48,137 @@ body
 .middle-box
 {
 	width: 1914px;
-	height: 1000px;
+	height: 980px;
 	background-color: #FFFFFF;
 	border-radius: 10px 10px 10px 10px;
 	box-shadow: 5px 5px 5px 5px #212121;
 	margin: 0px 30px
+}
+
+.description
+{
+	width: 264px;
+	height: 24px;
+	margin: 0px;
+}
+
+.cammy
+{
+	width: 120px;
+	height: 24px;
+	margin: 0px;
+}
+
+.dhaslim
+{
+	width: 168px;
+	height: 24px;
+	margin: 0px;
+}
+
+.feilong
+{
+	width: 192px;
+	height: 24px;
+	margin: 0px;
+}
+
+.gen
+{
+	width: 72px;
+	height: 24px;
+	margin: 0px;
+}
+
+.ibuki
+{
+	width: 120px;
+	height: 24px;
+	margin: 0px;
+}
+
+.makoto
+{
+	width: 144px;
+	height: 24px;
+	margin: 0px;
+}
+
+.sexe
+{
+	width: 96px;
+	height: 24px;
+	margin: 0px;
+}
+
+.homme
+{
+	width: 120px;
+	height: 24px;
+	margin: 0px;
+}
+
+.femme
+{
+	width: 120px;
+	height: 24px;
+	margin: 0px;
+}
+
+.type
+{
+	width: 96px;
+	height: 24px;
+	margin: 0px;
+}
+
+.distance
+{
+	width: 192px;
+	height: 24px;
+	margin: 0px;
+}
+
+.cac
+{
+	width: 312px;
+	height: 24px;
+	margin: 0px;
+}
+
+.experience
+{
+	width: 240px;
+	height: 24px;
+	margin: 0px;
+}
+
+.junior
+{
+	width: 144px;
+	height: 24px;
+	margin: 0px;
+}
+
+.senior
+{
+	width: 144px;
+	height: 24px;
+	margin: 0px;
+}
+
+.panier
+{
+	width: 240px;
+	height: 24px;
+	margin: 0px;
+}
+
+.compte
+{
+	width: 240px;
+	height: 24px;
+	margin: 0px;
 }
 
 .sf-brand-logo
@@ -74,43 +200,43 @@ body
 #Personnage1
 {
 	float: left;
-	width: 350px;
-	height: 350px;
+	width: 310px;
+	height: 310px;
 }
 
 #Personnage2
 {
 	float: left;
-	width: 350px;
-	height: 350px;
+	width: 310px;
+	height: 310px;
 }
 
 #Personnage3
 {
 	float: left;
-	width: 350px;
-	height: 350px;
+	width: 310px;
+	height: 310px;
 }
 
 #Personnage4
 {
 	float: left;
-	width: 350px;
-	height: 350px;
+	width: 310px;
+	height: 310px;
 }
 
 #Personnage5
 {
 	float: left;
-	width: 350px;
-	height: 350px;
+	width: 310px;
+	height: 310px;
 }
 
 #Personnage6
 {
 	float: left;
-	width: 350px;
-	height: 350px;
+	width: 310px;
+	height: 310px;
 }
 
 figure
@@ -131,4 +257,11 @@ figure figcaption
 	vertical-align: top;
 	margin-left: 150px;
 	margin-top: 60px;
+}
+
+label
+{
+	display: block;
+	width: 150px;
+	float: left;
 }
