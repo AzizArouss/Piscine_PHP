@@ -261,7 +261,9 @@ figure figcaption
 
 label
 {
+	margin-left: 700px;
+	margin-top: 0px;
 	display: block;
-	width: 150px;
+	width: 200px;
 	float: left;
 }
